@@ -26,7 +26,7 @@ Follow these steps to set up the project on your local environment:
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-   cd <repository-folder>
+   cd core
 
 2. **Create a Virtual Environment:**
    ```bash
